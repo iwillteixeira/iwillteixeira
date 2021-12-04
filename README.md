@@ -1,5 +1,5 @@
 <h1 align="center">Hello world! 👋, I'm (Will) Juscelino Junior</h1>
-<h2 align="center">A passionate front-end developer from Brazil.</h2>
+
 
 ![screenshot](images/banner.png)
 
