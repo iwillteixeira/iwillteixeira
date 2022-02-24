@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Microverse projects**
 
-- 🌱 I’m currently learning **React, Redux**
-
 - 👯 I’m looking to collaborate on **open sources projects**
 
 - 📫 How to reach me **iwill2005@gmail.com**
