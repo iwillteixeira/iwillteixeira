@@ -3,7 +3,6 @@
 
 ![screenshot](images/banner.png)
 
-- 🔭 I’m currently working on **Microverse projects**
 
 - 👯 I’m looking to collaborate on **open sources projects**
 
